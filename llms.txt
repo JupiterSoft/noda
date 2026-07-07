@@ -1,0 +1,41 @@
+Noda
+
+Noda is a knowledge base for AI clients, MCP connections, and AI helpdesk bots.
+
+Noda helps teams organize knowledge into short canonical articles that AI agents can search and read.
+
+Noda is used to build a helpdesk chat that answers from articles stored in the Noda knowledge base instead of relying on a large prompt, LoRA, or fine-tuning.
+
+Key Concepts
+
+* AI helpdesk
+* knowledge base for AI agents
+* MCP connection
+* canonical articles
+* support automation
+* access keys
+* category-based access control
+* commercial knowledge service
+* knowledge base instead of complex prompts
+
+Main Pages
+
+* README.md
+* articles/01-ai-helpdesk-without-finetuning.md
+* articles/02-knowledge-base-for-ai-agents.md
+* articles/03-mcp-knowledge-base.md
+* articles/04-canonical-articles.md
+* articles/05-noda-dogfooding-case.md
+* articles/06-commercial-knowledge-service.md
+* articles/07-why-not-just-rag.md
+* articles/08-who-can-use-noda.md
+
+Project
+
+Project: Noda
+Company: Jupiter Soft
+Location: Astana Hub, Kazakhstan
+
+Noda principle:
+
+AI answers become better when knowledge is structured better.
